@@ -3,7 +3,7 @@
 <p>This project includes the implmentation of llama2 model  using  clarifai-API ,This is a project of clarifai-llama2 hackathon .</p>
 
 <p>This Repository needs to be improved ,Feel free to raise issues and contriute</p>
-
+<p>You can access <a href="https://blog-from-research-paper.streamlit.app">here</a>/</p>
 
 Step to Contribute: 
 1. Fork the Repo
