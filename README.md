@@ -6,7 +6,8 @@
 
 <p>You can access <a href="https://blog-from-research-paper.streamlit.app">here</a>/</p>
 #Generating the Blog
-![Screenshot from 2023-08-28 12-29-16](https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/5255b499-665b-400f-836b-3e8d98c9797a)
+
+![Screenshot from 2023-08-28 12-28-41](https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/e6eaabe8-98cb-405d-9119-b8483bee9f61)
 
 #Generating the title
 ![Screenshot from 2023-08-28 12-28-41](https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/1520d716-8f48-43ac-8e7e-7c3d2f270539)
