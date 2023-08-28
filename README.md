@@ -1,4 +1,4 @@
-<h1>blog_generator_from_research-paper</h1>
+<h1>AI  Blog Generator</h1>
 <p>This model takes the research paper in the form of pdf file and converts it into a Blog which is easily understandable and allows to understand the complex terms using real life example</p>
 <p>This project includes the implmentation of llama2 model  using  clarifai-API ,This is a project of clarifai-llama2 hackathon .</p>
 
@@ -8,8 +8,7 @@
 #Generating the Blog
 <img src="https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/e6eaabe8-98cb-405d-9119-b8483bee9f61" />
 #Generating the title
-![Screenshot from 2023-08-28 12-28-41](https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/1520d716-8f48-43ac-8e7e-7c3d2f270539)
-
+<img src="https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/1520d716-8f48-43ac-8e7e-7c3d2f270539" />
 Step to Contribute: 
 1. Fork the Repo
 2. Clone the repo using   ```git clone  https://github.com/deep1910/blog-generator-clarifai-hackathon.git```
