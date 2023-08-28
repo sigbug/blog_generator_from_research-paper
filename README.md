@@ -8,7 +8,8 @@
 #Generating the Blog
 <img src="https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/e6eaabe8-98cb-405d-9119-b8483bee9f61" />
 #Generating the title
-<img src="https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/1520d716-8f48-43ac-8e7e-7c3d2f270539" />
+<img src="https://github.com/deep1910/blog_generator_from_research-paper/assets/92329233/61d0fb71-c8f9-4f15-90e1-1742ad76f6f7" />
+
 Step to Contribute: 
 1. Fork the Repo
 2. Clone the repo using   ```git clone  https://github.com/deep1910/blog-generator-clarifai-hackathon.git```
